@@ -2,7 +2,10 @@
 
 A Retrieval-Augmented Generation (RAG) pipeline that reads your Gmail inbox and sent items, stores the emails in a CSV file, and transforms them into embeddings using LangChain and FAISS for intelligent question-answering and analysis.
 
+---
+## Workflow
 
+![alt text](image/image.png)
 ---
 
 ## 📑 Table of Contents
